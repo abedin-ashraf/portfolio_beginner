@@ -1,0 +1,154 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+body {
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    background-color: #FDF5DF;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.intro {
+    font-size: 25px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+
+
+.about {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 2%;
+
+}
+
+.education {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.involvement-item {
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.acm {
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+
+.chartwells {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+.skills {
+
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#uviversity {
+    border-left: 7px solid;
+    border-image: linear-gradient(#667eea, #764ba2);
+    border-image-slice: 1;
+}
+
+#ceritfications {
+    border-left: 7px solid;
+    border-image: linear-gradient(#13547a, #80d0c7);
+    border-image-slice: 1;
+}
+
+#ceritfications a {
+    font-size: 20px;
+}
+
+.link-button1 {
+    text-decoration: none;
+    background-image: linear-gradient(#FF512F, #DD2476);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.involvment-area {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.last {
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: #5EBEC4;
+}
+
+
+.link-button2 {
+    text-decoration: none;
+    background-image: linear-gradient(#0077B5, #00A0DC);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
