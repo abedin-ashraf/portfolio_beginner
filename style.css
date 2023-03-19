@@ -152,3 +152,12 @@ body {
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+.link-button3 {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
